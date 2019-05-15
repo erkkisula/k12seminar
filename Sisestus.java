@@ -1,0 +1,3 @@
+interface Sisestus {
+    int[] sisestaArvud();
+}

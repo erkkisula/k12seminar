@@ -1,0 +1,10 @@
+Liideste kasutamine rakenduse eri otstarbega osade ühendamisel
+
+
+*Liides on abstraktne klass, mida kasutatakse tühjade kehadega meetodite rühmitamiseks
+
+*Liidese meetodid on kas abstract või public
+
+*Kui liides on loodud, on võimalik seda varustada sisuga paljudes klassides (implement)
+
+*Üks klass võib realiseerida suvalise arvu liideseid
